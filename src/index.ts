@@ -15,5 +15,5 @@ action((name) => {
         console.log(`create command`)
     }
 })
-
+console.log(program)
 program.parse()
